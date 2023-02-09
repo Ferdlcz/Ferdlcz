@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fernando de la cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando de la cruz" height="30" width="40" /></a>
-<a href="https://fb.com/fer delacruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fer delacruz" height="30" width="40" /></a>
-<a href="https://instagram.com/fer_delacruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fer_delacruz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fernando-de-la-cruz-1572a7234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando de la cruz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/skater.ferdelacruz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fer delacruz" height="30" width="40" /></a>
+<a href="https://instagram.com/fer__delacruz?igshid=NTA5ZTk1NTc=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fer_delacruz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
