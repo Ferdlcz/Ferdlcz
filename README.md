@@ -33,6 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdlcz&show_icons=true&locale=en" alt="ferdlcz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdlcz&" alt="ferdlcz" /></p>
-<p align="center">
-![snake gif](https://github.com/Ferdlcz/Ferdlcz/blob/output/github-contribution-grid-snake.gif)</p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdlcz&" alt="ferdlcz" /></p>
+
+![snake gif align="center"](https://github.com/Ferdlcz/Ferdlcz/blob/output/github-contribution-grid-snake.gif)
