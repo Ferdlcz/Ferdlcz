@@ -3,16 +3,19 @@
 <h3 align="center">A passionate web developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdlcz" alt="ferdlcz" /></a> </p>
+
 <p align="center">
 - Hi, i'm currently working in ...
+</p>
 
 - Personal proyects: [Rick & Morty Wiki](https://rickandmorty-jade.vercel.app/)
 
-
+<p align="center">
 - 🌱 I’m currently learning **Javascript, CSS, ReactJS, Nodejs**
+  </p>
+<p align="center">
+- 📫 How to reach me **ferdlcskate@gmail.com** </p>
 
-- 📫 How to reach me **ferdlcskate@gmail.com**
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
