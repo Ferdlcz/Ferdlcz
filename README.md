@@ -44,13 +44,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdlcz)](https://github.com/Ferdlcz)
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdlcz&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ferdlcz&repo=convoychat" />
-</a>
-  
 </div>
 
 ![snake gif align="center"](https://github.com/Ferdlcz/Ferdlcz/blob/output/github-contribution-grid-snake.gif)
