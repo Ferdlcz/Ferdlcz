@@ -15,7 +15,7 @@
 - Personal proyects: [Rick & Morty Wiki](https://rickandmorty-jade.vercel.app/)
 </p>
 <p align="center">
-- 🌱 I’m currently learning **Javascript, CSS, ReactJS, Nodejs**
+- 🌱 I’m currently learning **Javascript, CSS, ReactJS, Nodejs, C#**
   </p>
 <p align="center">
 - 📫 How to reach me **ferdlcskate@gmail.com** </p>
