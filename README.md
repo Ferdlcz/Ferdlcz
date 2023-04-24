@@ -44,9 +44,3 @@
   <img src="https://github.com/Ferdlcz/Ferdlcz/blob/output/github-contribution-grid-snake.gif?raw=true" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdlcz&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-
-![snake gif align="center"](https://github.com/Ferdlcz/Ferdlcz/blob/output/github-contribution-grid-snake.gif)
