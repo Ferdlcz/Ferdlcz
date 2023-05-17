@@ -23,7 +23,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/in/fernando-de-la-cruz-1572a7234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/fernando-de-la-cruz-1572a7234" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fernando-de-la-cruz-1572a7234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/fernando-de-la-cruz-1572a7234" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18821700/fernando-de-la-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18821700/fernando-de-la-cruz" height="30" width="40" /></a>
 <a href="https://fb.com/skater.ferdelacruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skater.ferdelacruz" height="30" width="40" /></a>
 <a href="https://instagram.com/fer_delacruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fer_delacruz" height="30" width="40" /></a>
