@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando De La Cruz</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ferdlcz&label=Profile%20views&color=0e75b6&style=flat" alt="ferdlcz" /> </p>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
